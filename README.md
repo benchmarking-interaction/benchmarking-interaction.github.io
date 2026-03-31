@@ -1,2 +1,3 @@
-# benchmarking-interaction.github.io
-Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation
+# Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation
+
+🚧 This page will be up soon! 🚧 
